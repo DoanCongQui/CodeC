@@ -1,0 +1,3 @@
+git add NameFile        // Thêm File
+git rm 'DeleteFlie'     // Xóa File
+git mv OldName NewName  // Đổi tên file

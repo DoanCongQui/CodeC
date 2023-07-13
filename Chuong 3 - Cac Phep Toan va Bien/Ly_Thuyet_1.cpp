@@ -11,5 +11,6 @@
 
 int main ()
 {
-    std::cout << sqrt(25) << "\n";
+    bool x = 1234;
+    std::cout << x;
 }
